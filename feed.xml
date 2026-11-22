@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>WEBX GROUP — инженерный блог</title>
+    <link>https://webxcompany.github.io/webx-site/blog/</link>
+    <description>Архитектура, процесс и решения в trading, fintech и web3: заметки инженерной студии WEBX GROUP.</description>
+    <language>ru</language>
+    <lastBuildDate>Sun, 22 Nov 2026 00:00:00 GMT</lastBuildDate>
+    <atom:link href="https://webxcompany.github.io/webx-site/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Свой терминал или white-label: экономика решения</title>
+      <link>https://webxcompany.github.io/webx-site/blog/own-terminal-vs-white-label/</link>
+      <guid isPermaLink="true">https://webxcompany.github.io/webx-site/blog/own-terminal-vs-white-label/</guid>
+      <pubDate>Sun, 22 Nov 2026 00:00:00 GMT</pubDate>
+      <category>BUSINESS</category>
+      <description>White-label платформа против своей разработки терминала: публичные цены вендоров, TCO на 36 месяцев, когда что выбирать и как не попасть в lock-in.</description>
+    </item>
+    <item>
+      <title>Discovery за 3 недели: как оценить fintech-MVP до первой строки кода</title>
+      <link>https://webxcompany.github.io/webx-site/blog/discovery-scope-and-check/</link>
+      <guid isPermaLink="true">https://webxcompany.github.io/webx-site/blog/discovery-scope-and-check/</guid>
+      <pubDate>Sat, 21 Nov 2026 00:00:00 GMT</pubDate>
+      <category>PROCESS</category>
+      <description>Что должно быть на входе в discovery, какие артефакты получить через 3 недели, как проверить оценку fintech-MVP и какие красные флаги означают отказ.</description>
+    </item>
+    <item>
+      <title>Realtime market-data: как не потерять данные при разрыве WebSocket</title>
+      <link>https://webxcompany.github.io/webx-site/blog/websocket-reconnect-market-data/</link>
+      <guid isPermaLink="true">https://webxcompany.github.io/webx-site/blog/websocket-reconnect-market-data/</guid>
+      <pubDate>Thu, 19 Nov 2026 00:00:00 GMT</pubDate>
+      <category>ARCHITECTURE</category>
+      <description>Протокол восстановления market-data после разрыва WebSocket: sequence numbers, гонка snapshot+delta, дедупликация, порядок событий и backpressure.</description>
+    </item>
+    <item>
+      <title>Discovery за 3 недели: как оценить fintech-MVP</title>
+      <link>https://webxcompany.github.io/webx-site/blog/fintech-mvp-discovery/</link>
+      <guid isPermaLink="true">https://webxcompany.github.io/webx-site/blog/fintech-mvp-discovery/</guid>
+      <pubDate>Wed, 18 Nov 2026 00:00:00 GMT</pubDate>
+      <category>PROCESS</category>
+      <description>Как за три недели получить архитектуру, roadmap и оценку fintech-продукта. Что входит в discovery, какие артефакты на выходе и где обычно ошибаются.</description>
+    </item>
+    <item>
+      <title>Как мы строим realtime-терминал: архитектура market-data</title>
+      <link>https://webxcompany.github.io/webx-site/blog/realtime-terminal-architecture/</link>
+      <guid isPermaLink="true">https://webxcompany.github.io/webx-site/blog/realtime-terminal-architecture/</guid>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 GMT</pubDate>
+      <category>ARCHITECTURE</category>
+      <description>Пять слоёв market-data конвейера: коннекторы, шина, история, realtime-шлюз и фронтенд. Что ломается на каждом слое и как это чинить.</description>
+    </item>
+  </channel>
+</rss>

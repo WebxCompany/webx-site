@@ -1,0 +1,6 @@
+User-Agent: *
+Allow: /
+Disallow: /api/
+
+Host: webxcompany.github.io
+Sitemap: https://webxcompany.github.io/webx-site/sitemap.xml
